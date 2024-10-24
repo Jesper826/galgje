@@ -8,7 +8,7 @@
 |1|2|3|4|5|6|
 
 ## Score
-![gallow](./images/1.png)
+![gallow](./images/2.png)
 
 ## Beurten
 # Ik gok de A
