@@ -15,3 +15,4 @@
 # ik gok de P
 # ik gok de E
 # ik gok de L
+# ik gok de S
