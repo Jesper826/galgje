@@ -17,3 +17,4 @@
 # ik gok de L
 # ik gok de S
 # ik gok de h
+# ik gok de K
