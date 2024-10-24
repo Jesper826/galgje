@@ -18,3 +18,4 @@
 # ik gok de S
 # ik gok de h
 # ik gok de K
+# ik gok de N
