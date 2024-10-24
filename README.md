@@ -12,3 +12,4 @@
 ![gallow](./images/1.png)
 
 ## Beurten
+# Ik gok de A
